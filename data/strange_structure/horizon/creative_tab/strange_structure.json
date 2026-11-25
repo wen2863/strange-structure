@@ -1,0 +1,9 @@
+{
+  "title": "itemGroup.strange_structure",
+  "icon": "strange_structure:strange_block",
+  "items": [
+    "strange_structure:strange_block",
+    "strange_structure:strange_gem",
+    "strange_structure:strange_shard"
+  ]
+}

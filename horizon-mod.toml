@@ -1,0 +1,13 @@
+id = "strange_structure"
+name = "异构"
+version = "1.0.0"
+description = "异构（The Strange Structure）：一个不可破坏、可自由浮空、可缩放旋转、能吸附并转化物品、外观可从游戏里所有方块中挑、六个面也能自己画的奇异方块。"
+authors = ["Wen"]
+api = "0.2"
+side = "both"
+capabilities = ["registries"]
+
+[native]
+game = "26.3"
+horizon = "0a875da91dbb0fdcb7ba8c42c11341aa229af51a"
+mixins = "e59da9094f0c2fdda6c627fe9eff22dec6a906f0"

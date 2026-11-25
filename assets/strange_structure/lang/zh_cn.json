@@ -1,0 +1,7 @@
+{
+  "block.strange_structure.strange_block": "奇异方块",
+  "block.strange_structure.strange_fill": "奇异方块",
+  "item.strange_structure.strange_gem": "奇异宝石",
+  "item.strange_structure.strange_shard": "奇异碎片",
+  "itemGroup.strange_structure": "异构"
+}
